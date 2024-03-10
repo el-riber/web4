@@ -31,5 +31,8 @@ module.exports = {
         "react"
     ],
     "rules": {
+        "semi": "off", // Change the rule for semicolons to "off"
+        "quotes": ["error", "single"] // Change the rule for quotes to "single" (you can use "double" if you prefer)
     }
+    
 }
